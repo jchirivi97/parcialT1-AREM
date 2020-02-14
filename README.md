@@ -18,3 +18,7 @@
 # Autor:
 
 Jimmy Armando Chirivi Nivia
+
+# Heroku
+
+https://parcial1-arep.herokuapp.com/inputdata
